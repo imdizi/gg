@@ -7,8 +7,9 @@ int print_7_n(int n)
 
 int main()
 {
-  int i;
-  for(i=1; i<10; i++)
-    print_7_n(i);
+  int n;
+  scanf("%d", &n);
+  print_7_n(n);
   return 0;
 }
+
