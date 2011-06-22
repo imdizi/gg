@@ -1,3 +1,6 @@
+#include <stdio.h>
+
 int main(){
-return 0;
+	printf("7*1=7\n");
+	return 0;
 }
